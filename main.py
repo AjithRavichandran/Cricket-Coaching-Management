@@ -1,5 +1,4 @@
 from collections import defaultdict
-
 from database import session, Student, Coach
 from datetime import datetime
 
