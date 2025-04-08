@@ -226,4 +226,4 @@ def overall_session_detail():
             count += 1
 
 
-overall_session_detail()
+#overall_session_detail()
